@@ -1,4 +1,4 @@
-Hello there <img src="raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Valentin Ognyanov.
+Hello there <img src="http://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Valentin Ognyanov.
 - 🌱 I’m currently learning JavaScript in SoftUni.
 - 📫 How to reach me : facebook - Валентин Огнянов
 
