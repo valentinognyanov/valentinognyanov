@@ -1,6 +1,6 @@
 Hello there <img src="http://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Valentin Ognyanov.
  ---
-A JavaScript Web Developer that has experience with the technologies listed in the **toolbox** below.
+A JavaScript Web Developer that has some experience with the technologies listed in the **toolbox** below.
 
 I studied Fullstack development in [Software University Ltd.](https://softuni.bg/)    <img src="https://softuni.bg/content/images/header/white-vertical-logo-university.svg" path="http://www.softuni.com/" width="30px">
 
