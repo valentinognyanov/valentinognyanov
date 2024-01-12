@@ -33,7 +33,7 @@ I studied Fullstack development in [Software University Ltd.](https://softuni.bg
 
 ![Valentin Ognyanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinognyanov&theme=dark&show_icons=true) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinognyanov)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinognyanov&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 valentinognyanov/valentinognyanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
