@@ -28,6 +28,13 @@ I studied Fullstack development in [Software University Ltd.](https://softuni.bg
 2. [Android Development with Kotlin - October 2023](https://softuni.bg/certificates/details/194026/63689012)
 
 [**My Diploma**](https://softuni.bg/certificates/details/199368/77e78672)
+
+---
+
+![Valentin Ognyanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinognyanov&theme=dark&show_icons=true) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinognyanov)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 valentinognyanov/valentinognyanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
